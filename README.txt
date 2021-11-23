@@ -1,5 +1,5 @@
 1. var let const ต่างกันยังไง
-2. for in / for off/ foreach
+2. for in / for of/ foreach
 3. class
 4. destructuring
 5. async/await, promise
